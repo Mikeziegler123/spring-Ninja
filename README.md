@@ -9,7 +9,7 @@
   
 ![ViewNinjas.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/ViewNinjas.PNG?raw=true)
   
-<p align="center"><i><b>Edit Ninja Information<b><i></p>
+<p align="center"><i><b>Edit Ninja<b><i></p>
   
 ![EditNinja.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/EditNinja.PNG?raw=true)
   
@@ -21,7 +21,7 @@
   
 ![EditedPortal.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/EditedPortal.PNG?raw=true)
 
-<p align="center"><i><b>Register to Become a Ninja<b><i></p>
+<p align="center"><i><b>Add Ninja<b><i></p>
   
 ![AddNinja.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/AddNinja.PNG?raw=true)
 
