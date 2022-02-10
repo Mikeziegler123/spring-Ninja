@@ -1,2 +1,2 @@
-# Spring-Ninja
-Spring React app where you can register to Become a Ninja.
+# spring-Ninja
+Spring-server React-client app where you can register to Become a Ninja.
