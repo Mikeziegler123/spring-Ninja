@@ -1,0 +1,12 @@
+.body {
+    color: rgb(48, 221, 140);
+    font-size: 40px;
+  }
+  
+  #render {
+    position: absolute;
+    height: 1em;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

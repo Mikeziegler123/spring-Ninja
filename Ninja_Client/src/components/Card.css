@@ -1,0 +1,24 @@
+.TableHead {
+    color: rgb(48, 221, 140);
+   }
+.a {
+	border: 2px solid #AEA8D3;
+	color: #FFF;
+}
+.a {
+	border: 2px solid #AEA8D3;
+	color: #FFF;
+}
+.a::after:hover {
+	border: 3px solid #AEA8D3;
+	opacity: 0;
+	-moz-transform: translateY(-50%) translateX(-50%) rotate(25deg);
+	-ms-transform: translateY(-50%) translateX(-50%) rotate(25deg);
+	-webkit-transform: translateY(-50%) translateX(-50%) rotate(25deg);
+	transform: translateY(-50%) translateX(-50%) rotate(25deg);
+}
+.a::after:hover {
+	height: 400% !important;
+	opacity: 1;
+	color: #FFF;
+}
