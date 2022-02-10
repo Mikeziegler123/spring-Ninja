@@ -1,7 +1,7 @@
 # Spring-Ninja 𝘔𝘪𝘤𝘩𝘢𝘦𝘭 𝘡𝘪𝘦𝘨𝘭𝘦𝘳
 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚 𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏: Spring/Reactjs web server/client application where users can register to Become a Ninja, view other registered Ninjas in the Ninja Portal, and update their Ninja Designation.
 -------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">Ninja Portal</p>
+<p align="center"><i><b>Ninja Portal<b><i></p>
 
 ![NinjaPortal.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/NinjaPortal.PNG?raw=true)
 ![ViewNinjas.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/ViewNinjas.PNG?raw=true)
