@@ -1,6 +1,6 @@
 # spring-Ninja
 Spring React app where you can register to Become a Ninja.
-<h1 align="center">Ninja Portal</h1>
+Ninja Portal
 ![NinjaPortal.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/NinjaPortal.PNG?raw=true)
 ![ViewNinjas.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/ViewNinjas.PNG?raw=true)
 ![EditNinja.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/EditNinja.PNG?raw=true)
