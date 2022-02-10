@@ -3,6 +3,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center"><i><b>Ninja Portal<b><i></p>
 ![NinjaPortal.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/NinjaPortal.PNG?raw=true)
+  
 <p align="center"><i><b>Ninja Portal<b><i></p>
   
 ![ViewNinjas.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/ViewNinjas.PNG?raw=true)
