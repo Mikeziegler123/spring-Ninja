@@ -25,11 +25,11 @@
   
 ![AddNinja.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/AddNinja.PNG?raw=true)
 
-<p align="center"><i><b>Registered Ninja Portal - after add<b><i></p>
+<p align="center"><i><b>Registered Ninja Profiles - after add<b><i></p>
   
 ![AddedNinja.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/AddedNinja.PNG?raw=true)
 
-<p align="center"><i><b>Registered Ninja Profiles - after add<b><i></p>
+<p align="center"><i><b>Registered Ninja Portal - after add<b><i></p>
   
 ![AddedPortal.PNG](https://github.com/Mikeziegler123/spring-Ninja/blob/master/Images/AddedPortal.PNG?raw=true)
   
