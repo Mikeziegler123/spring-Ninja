@@ -1,5 +1,5 @@
 # Spring-Ninja <p><sub><sup>Author: 𝘔𝘪𝘤𝘩𝘢𝘦𝘭 𝘡𝘪𝘦𝘨𝘭𝘦𝘳</sup></sub>
-<p>Live Demo: <a href='https://ec2-18-207-156-15.compute-1.amazonaws.com:8080'>Click Here</a> <sub><sup><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS/EC2/RDS</i></sub></sup></p>
+<p>Live Demo: <a href='ec2-18-207-156-15.compute-1.amazonaws.com:8080'>Click Here</a> <sub><sup><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS/EC2/RDS</i></sub></sup></p>
 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻:<sub>&nbsp;&nbsp; Spring/Reactjs web server/client application where users can register to Become a Ninja, view other registered Ninjas in the Ninja Portal, and update their Ninja Designation.</sub></p>
 <sup>---------------------------------------------------------</sup>
 <p align="center"><i><b>View Ninja Portal<b><i></p>
